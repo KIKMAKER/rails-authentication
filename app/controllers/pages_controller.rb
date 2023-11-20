@@ -5,7 +5,7 @@ class PagesController < ApplicationController
   end
 
   def about
-
+    @beans = "many beans"
   end
 
 end
